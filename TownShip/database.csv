@@ -1,0 +1,364 @@
+ lvl.min ; lvl.max ;product;name;type; refused ;lvl.start; growth.time ; sell.price ; buy.price 
+29;33;rubber;Rubber;manufactured_goods;98 262;29;60;37;18
+24;28;muffin;Muffin;manufactured_goods;83 901;24;30;68;41
+16;19;milkshake;Milk Shake;manufactured_goods;82 929;16;15;30;18
+20;23;icecream;Ice Cream;manufactured_goods;76 155;20;30;39;23
+20;23;paper;Paper;manufactured_goods;72 611;18;90;19;13
+16;19;popcorn;Pop Corn;manufactured_goods;64 446;14;30;12;6
+16;19;paper;Paper;manufactured_goods;64 175;18;90;19;13
+16;19;wool;Wool;manufactured_goods;60 705;10;240;15;11
+29;33;carrot;Морковь;seeds;55 710;4;10;5;2
+24;28;carrot;Морковь;seeds;54 358;4;10;5;2
+29;33;wool;Wool;manufactured_goods;54 347;10;240;15;11
+29;33;paper;Paper;manufactured_goods;54 231;18;90;19;13
+20;23;wool;Wool;manufactured_goods;54 170;10;240;15;11
+16;19;cheeseburger;Cheeseburger;manufactured_goods;54 139;16;30;57;30
+16;19;sweater;Sweater;manufactured_goods;53 594;14;90;76;32
+29;33;caramel;Caramel;manufactured_goods;53 125;24;90;45;15
+16;19;sugar;Sugar;manufactured_goods;53 004;7;20;14;6
+16;19;egg;Egg;manufactured_goods;52 719;5;60;10;7
+16;19;shirt;Shirt;manufactured_goods;52 480;12;60;45;17
+29;33;popcorn;Pop Corn;manufactured_goods;51 794;14;30;12;6
+24;28;paper;Paper;manufactured_goods;51 621;18;90;19;13
+13;15;popcorn;Pop Corn;manufactured_goods;51 533;14;30;12;6
+24;28;caramel;Caramel;manufactured_goods;51 450;24;90;45;15
+29;33;granola;Granola;manufactured_goods;51 319;19;40;29;16
+24;28;wool;Wool;manufactured_goods;51 018;10;240;15;11
+16;19;cream;Cream;manufactured_goods;50 993;4;15;12;8
+29;33;corn;Кукуруза;seeds;50 945;3;5;3;1
+29;33;papertowel;Paper Towel;manufactured_goods;50 821;23;150;39;21
+29;33;syrup;Syrup;manufactured_goods;50 779;17;40;29;10
+29;33;cornchips;Corn Chips;manufactured_goods;50 706;17;60;19;8
+16;19;cottonfabric;Cotton Fabric;manufactured_goods;50 676;9;30;37;12
+20;23;carrot;Морковь;seeds;50 207;4;10;5;2
+20;23;syrup;Syrup;manufactured_goods;50 190;17;40;29;10
+29;33;cotton;Хлопок;seeds;50 005;9;30;9;4
+20;23;fruitice;Fruit Ice;manufactured_goods;49 853;21;90;45;22
+16;19;bread;Bread;manufactured_goods;49 756;2;5;5;3
+24;28;corn;Кукуруза;seeds;49 744;3;5;3;1
+24;28;papertowel;Paper Towel;manufactured_goods;49 101;23;150;39;21
+24;28;cotton;Хлопок;seeds;49 100;9;30;9;4
+20;23;egg;Egg;manufactured_goods;48 592;5;60;10;7
+29;33;yogurt;Yogurt;manufactured_goods;48 502;21;90;53;26
+16;19;woolfabric;Yarn;manufactured_goods;48 410;10;40;61;26
+20;23;cornchips;Corn Chips;manufactured_goods;48 080;17;60;19;8
+16;19;butter;Butter;manufactured_goods;48 025;11;60;39;20
+29;33;fruitice;Fruit Ice;manufactured_goods;48 019;21;90;45;22
+20;23;popcorn;Pop Corn;manufactured_goods;47 860;14;30;12;6
+20;23;granola;Granola;manufactured_goods;47 717;19;40;29;16
+20;23;coat;Coat;manufactured_goods;47 542;20;120;125;44
+16;19;cheese;Cheese;manufactured_goods;47 488;6;30;25;14
+29;33;cheese;Cheese;manufactured_goods;47 287;6;30;25;14
+16;19;cornchips;Corn Chips;manufactured_goods;47 227;17;60;19;8
+16;19;cookie;Cookie;manufactured_goods;46 944;5;15;44;18
+29;33;sugarcane;Тростник;seeds;46 933;7;20;7;3
+29;33;butter;Butter;manufactured_goods;46 908;11;60;39;20
+24;28;granola;Granola;manufactured_goods;46 878;19;40;29;16
+24;28;popcorn;Pop Corn;manufactured_goods;46 821;14;30;12;6
+29;33;milkshake;Milk Shake;manufactured_goods;46 763;16;15;30;18
+20;23;milkshake;Milk Shake;manufactured_goods;46 432;16;15;30;18
+24;28;cornchips;Corn Chips;manufactured_goods;46 312;17;60;19;8
+20;23;cotton;Хлопок;seeds;46 126;9;30;9;4
+29;33;icecream;Ice Cream;manufactured_goods;46 110;20;30;39;23
+20;23;corn;Кукуруза;seeds;45 916;3;5;3;1
+24;28;sugarcane;Тростник;seeds;45 788;7;20;7;3
+24;28;syrup;Syrup;manufactured_goods;45 443;17;40;29;10
+29;33;muffin;Muffin;manufactured_goods;45 067;24;30;68;41
+16;19;carrot;Морковь;seeds;44 902;4;10;5;2
+20;23;sugarcane;Тростник;seeds;44 859;7;20;7;3
+29;33;shirt;Shirt;manufactured_goods;44 723;12;60;45;17
+20;23;shirt;Shirt;manufactured_goods;44 688;12;60;45;17
+29;33;bread;Bread;manufactured_goods;44 379;2;5;5;3
+24;28;potato;Картофель;seeds;44 346;22;240;17;8
+29;33;cheeseburger;Cheeseburger;manufactured_goods;44 125;16;30;57;30
+20;23;pine;Елка;seeds;44 090;18;180;15;7
+24;28;tomat;Томат;seeds;43 888;15;120;13;6
+29;33;cottonfabric;Cotton Fabric;manufactured_goods;43 726;9;30;37;12
+20;23;butter;Butter;manufactured_goods;43 674;11;60;39;20
+20;23;sweater;Sweater;manufactured_goods;43 587;14;90;76;32
+24;28;milkshake;Milk Shake;manufactured_goods;43 579;16;15;30;18
+20;23;tomat;Томат;seeds;43 517;15;120;13;6
+16;19;syrup;Syrup;manufactured_goods;43 504;17;40;29;10
+24;28;yogurt;Yogurt;manufactured_goods;43 454;21;90;53;26
+20;23;bread;Bread;manufactured_goods;43 375;2;5;5;3
+16;19;milk;Milk;manufactured_goods;43 303;1;20;7;5
+24;28;pine;Елка;seeds;43 274;18;180;15;7
+29;33;egg;Egg;manufactured_goods;43 253;5;60;10;7
+16;19;bagel;Bagel;manufactured_goods;43 156;8;30;55;32
+20;23;cottonfabric;Cotton Fabric;manufactured_goods;43 144;9;30;37;12
+29;33;frozenyogurt;Frozen Yogurt;manufactured_goods;42 835;23;180;87;41
+20;23;cheese;Cheese;manufactured_goods;42 786;6;30;25;14
+24;28;butter;Butter;manufactured_goods;42 786;11;60;39;20
+24;28;cheese;Cheese;manufactured_goods;42 764;6;30;25;14
+29;33;potato;Картофель;seeds;42 736;22;240;17;8
+29;33;tomat;Томат;seeds;42 706;15;120;13;6
+24;28;fruitice;Fruit Ice;manufactured_goods;42 593;21;90;45;22
+29;33;chips;Potato Chips;manufactured_goods;42 344;22;120;69;22
+29;33;pine;Елка;seeds;42 057;18;180;15;7
+29;33;pizza;Pizza;manufactured_goods;42 012;22;120;68;34
+20;23;cookie;Cookie;manufactured_goods;41 898;5;15;44;18
+24;28;shirt;Shirt;manufactured_goods;41 894;12;60;45;17
+24;28;cheeseburger;Cheeseburger;manufactured_goods;41 883;16;30;57;30
+29;33;cookie;Cookie;manufactured_goods;41 872;5;15;44;18
+29;33;cacao;Какао;seeds;41 749;25;480;19;11
+24;28;cottonfabric;Cotton Fabric;manufactured_goods;41 674;9;30;37;12
+29;33;rubberTree;Резиновое дерево;seeds;41 613;29;720;30;13
+29;33;strawberry;Клубника;seeds;41 587;13;60;11;5
+20;23;cheeseburger;Cheeseburger;manufactured_goods;41 533;16;30;57;30
+24;28;strawberry;Клубника;seeds;41 308;13;60;11;5
+20;23;sandwich;Jam Sandwich;manufactured_goods;41 191;19;40;80;37
+16;19;corn;Кукуруза;seeds;41 178;3;5;3;1
+24;28;bread;Bread;manufactured_goods;40 984;2;5;5;3
+20;23;woolfabric;Yarn;manufactured_goods;40 977;10;40;61;26
+16;19;cotton;Хлопок;seeds;40 889;9;30;9;4
+24;28;egg;Egg;manufactured_goods;40 844;5;60;10;7
+20;23;sugar;Sugar;manufactured_goods;40 795;7;20;14;6
+20;23;cream;Cream;manufactured_goods;40 766;4;15;12;8
+29;33;sandwich;Jam Sandwich;manufactured_goods;40 672;19;40;80;37
+24;28;cream;Cream;manufactured_goods;40 665;4;15;12;8
+29;33;cream;Cream;manufactured_goods;40 659;4;15;12;8
+20;23;wheat;Пшеница;seeds;40 604;1;2;1;1
+29;33;eskimo;Eskimo;manufactured_goods;40 597;25;240;87;36
+29;33;bagel;Bagel;manufactured_goods;40 479;8;30;55;32
+29;33;sweater;Sweater;manufactured_goods;40 396;14;90;76;32
+16;19;tomat;Томат;seeds;40 374;15;120;13;6
+16;19;sugarcane;Тростник;seeds;40 298;7;20;7;3
+29;33;wheat;Пшеница;seeds;40 283;1;2;1;1
+29;33;woolfabric;Yarn;manufactured_goods;40 252;10;40;61;26
+29;33;frenchfries;French Fries;manufactured_goods;40 189;28;60;88;41
+13;15;shirt;Shirt;manufactured_goods;40 161;12;60;45;17
+29;33;sugar;Sugar;manufactured_goods;40 063;7;20;14;6
+16;19;strawberry;Клубника;seeds;39 983;13;60;11;5
+24;28;wheat;Пшеница;seeds;39 953;1;2;1;1
+29;33;milk;Milk;manufactured_goods;39 926;1;20;7;5
+13;15;wool;Wool;manufactured_goods;39 812;10;240;15;11
+24;28;frozenyogurt;Frozen Yogurt;manufactured_goods;39 791;23;180;87;41
+24;28;sweater;Sweater;manufactured_goods;39 661;14;90;76;32
+20;23;strawberry;Клубника;seeds;39 649;13;60;11;5
+24;28;pizza;Pizza;manufactured_goods;39 630;22;120;68;34
+29;33;cupcake;Cupcake;manufactured_goods;39 597;30;60;93;54
+24;28;icecream;Ice Cream;manufactured_goods;39 579;20;30;39;23
+20;23;yogurt;Yogurt;manufactured_goods;38 917;21;90;53;26
+24;28;woolfabric;Yarn;manufactured_goods;38 908;10;40;61;26
+20;23;bagel;Bagel;manufactured_goods;38 767;8;30;55;32
+24;28;chips;Potato Chips;manufactured_goods;38 600;22;120;69;22
+29;33;brownie;Brownie;manufactured_goods;38 576;27;40;128;56
+24;28;sandwich;Jam Sandwich;manufactured_goods;38 137;19;40;80;37
+16;19;wheat;Пшеница;seeds;38 051;1;2;1;1
+24;28;cookie;Cookie;manufactured_goods;38 021;5;15;44;18
+24;28;sugar;Sugar;manufactured_goods;36 422;7;20;14;6
+24;28;milk;Milk;manufactured_goods;36 391;1;20;7;5
+20;23;milk;Milk;manufactured_goods;36 275;1;20;7;5
+24;28;bagel;Bagel;manufactured_goods;36 195;8;30;55;32
+29;33;coat;Coat;manufactured_goods;35 730;20;120;125;44
+24;28;coat;Coat;manufactured_goods;35 640;20;120;125;44
+29;33;potatobread;Potato Bread;manufactured_goods;35 212;26;60;158;50
+24;28;eskimo;Eskimo;manufactured_goods;34 156;25;240;87;36
+13;15;woolfabric;Yarn;manufactured_goods;33 658;10;40;61;26
+13;15;bread;Bread;manufactured_goods;33 065;2;5;5;3
+13;15;sugar;Sugar;manufactured_goods;32 890;7;20;14;6
+13;15;egg;Egg;manufactured_goods;32 795;5;60;10;7
+13;15;cream;Cream;manufactured_goods;32 698;4;15;12;8
+13;15;cheese;Cheese;manufactured_goods;31 071;6;30;25;14
+13;15;sweater;Sweater;manufactured_goods;30 779;14;90;76;32
+24;28;cacao;Какао;seeds;30 564;25;480;19;11
+13;15;butter;Butter;manufactured_goods;30 413;11;60;39;20
+13;15;cottonfabric;Cotton Fabric;manufactured_goods;29 613;9;30;37;12
+29;33;silkfabric;Silk Fabric;manufactured_goods;29 297;31;90;140;34
+13;15;milk;Milk;manufactured_goods;29 054;1;20;7;5
+13;15;cookie;Cookie;manufactured_goods;28 515;5;15;44;18
+29;33;plastic;Plastic;manufactured_goods;28 296;32;90;75;32
+13;15;bagel;Bagel;manufactured_goods;27 192;8;30;55;32
+10;12;wool;Wool;manufactured_goods;26 584;10;240;15;11
+10;12;woolfabric;Yarn;manufactured_goods;25 804;10;40;61;26
+29;33;hat;Hat;manufactured_goods;25 672;31;150;231;53
+20;23;pizza;Pizza;manufactured_goods;25 202;22;120;68;34
+29;33;silk;Шелк;seeds;25 118;31;900;33;14
+13;15;carrot;Морковь;seeds;24 806;4;10;5;2
+20;23;chips;Potato Chips;manufactured_goods;24 391;22;120;69;22
+13;15;corn;Кукуруза;seeds;24 127;3;5;3;1
+29;33;wallpapers;Wallpaper;manufactured_goods;24 097;30;180;89;39
+24;28;brownie;Brownie;manufactured_goods;23 367;27;40;128;56
+13;15;sugarcane;Тростник;seeds;23 151;7;20;7;3
+13;15;cotton;Хлопок;seeds;22 314;9;30;9;4
+24;28;potatobread;Potato Bread;manufactured_goods;22 217;26;60;158;50
+10;12;corn;Кукуруза;seeds;22 175;3;5;3;1
+10;12;carrot;Морковь;seeds;21 901;4;10;5;2
+13;15;wheat;Пшеница;seeds;21 255;1;2;1;1
+10;12;sugarcane;Тростник;seeds;21 218;7;20;7;3
+16;19;pine;Елка;seeds;20 925;18;180;15;7
+13;15;strawberry;Клубника;seeds;20 923;13;60;11;5
+10;12;cotton;Хлопок;seeds;20 678;9;30;9;4
+10;12;bread;Bread;manufactured_goods;20 502;2;5;5;3
+10;12;cream;Cream;manufactured_goods;20 237;4;15;12;8
+10;12;sugar;Sugar;manufactured_goods;20 125;7;20;14;6
+20;23;potato;Картофель;seeds;19 969;22;240;17;8
+10;12;cheese;Cheese;manufactured_goods;19 298;6;30;25;14
+10;12;wheat;Пшеница;seeds;19 202;1;2;1;1
+20;23;papertowel;Paper Towel;manufactured_goods;18 858;23;150;39;21
+10;12;bagel;Bagel;manufactured_goods;18 840;8;30;55;32
+10;12;egg;Egg;manufactured_goods;18 811;5;60;10;7
+10;12;cookie;Cookie;manufactured_goods;18 777;5;15;44;18
+16;19;granola;Granola;manufactured_goods;18 319;19;40;29;16
+10;12;milk;Milk;manufactured_goods;18 160;1;20;7;5
+20;23;frozenyogurt;Frozen Yogurt;manufactured_goods;18 119;23;180;87;41
+10;12;cottonfabric;Cotton Fabric;manufactured_goods;18 050;9;30;37;12
+16;19;sandwich;Jam Sandwich;manufactured_goods;17 707;19;40;80;37
+10;12;shirt;Shirt;manufactured_goods;16 420;12;60;45;17
+10;12;butter;Butter;manufactured_goods;15 317;11;60;39;20
+29;33;doughnut;Doughnut;manufactured_goods;11 462;33;90;149;64
+24;28;frenchfries;French Fries;manufactured_goods;10 358;28;60;88;41
+29;33;dress;Dress;manufactured_goods;9 799;33;180;268;67
+13;15;tomat;Томат;seeds;7 160;15;120;13;6
+13;15;cheeseburger;Cheeseburger;manufactured_goods;1 405;16;30;57;30
+16;19;coat;Coat;manufactured_goods;581;20;120;125;44
+20;23;caramel;Caramel;manufactured_goods;466;24;90;45;15
+29;33;plasticbottle;Plastic Bottle;manufactured_goods;459;34;90;94;38
+13;15;milkshake;Milk Shake;manufactured_goods;427;16;15;30;18
+24;28;rubber;Rubber;manufactured_goods;413;29;60;37;18
+16;19;icecream;Ice Cream;manufactured_goods;408;20;30;39;23
+20;23;muffin;Muffin;manufactured_goods;329;24;30;68;41
+10;12;strawberry;Клубника;seeds;159;13;60;11;5
+16;19;halloweenchips;Halloweenchips;manufactured_goods;135;14;150;29;16
+16;19;halloweencostume;halloweencostume;manufactured_goods;130;12;90;120;42
+16;19;pumpkin;Тыква;seeds;128;6;25;6;3
+24;28;rubberTree;Резиновое дерево;seeds;127;29;720;30;13
+16;19;halloweenpie;Halloweenpie;manufactured_goods;121;6;50;40;20
+24;28;halloweencostume;halloweencostume;manufactured_goods;120;12;90;120;42
+13;15;halloweencostume;halloweencostume;manufactured_goods;110;12;90;120;42
+24;28;halloweenchips;Halloweenchips;manufactured_goods;110;14;150;29;16
+24;28;pumpkin;Тыква;seeds;106;6;25;6;3
+24;28;halloweenpie;Halloweenpie;manufactured_goods;102;6;50;40;20
+20;23;halloweenchips;Halloweenchips;manufactured_goods;101;14;150;29;16
+20;23;pumpkin;Тыква;seeds;98;6;25;6;3
+20;23;halloweencostume;halloweencostume;manufactured_goods;97;12;90;120;42
+10;12;pumpkin;Тыква;seeds;93;6;25;6;3
+29;33;halloweenchips;Halloweenchips;manufactured_goods;90;14;150;29;16
+20;23;halloweenpie;Halloweenpie;manufactured_goods;88;6;50;40;20
+10;12;halloweenpie;Halloweenpie;manufactured_goods;87;6;50;40;20
+13;15;halloweenpie;Halloweenpie;manufactured_goods;83;6;50;40;20
+13;15;pumpkin;Тыква;seeds;74;6;25;6;3
+29;33;halloweenpie;Halloweenpie;manufactured_goods;71;6;50;40;20
+29;33;pumpkin;Тыква;seeds;66;6;25;6;3
+29;33;halloweencostume;halloweencostume;manufactured_goods;64;12;90;120;42
+13;15;halloweenchips;Halloweenchips;manufactured_goods;62;14;150;29;16
+10;12;halloweencostume;halloweencostume;manufactured_goods;32;12;90;120;42
+10;12;popcorn;Pop Corn;manufactured_goods;14;14;30;12;6
+13;15;syrup;Syrup;manufactured_goods;13;17;40;29;10
+13;15;cornchips;Corn Chips;manufactured_goods;13;17;60;19;8
+16;19;yogurt;Yogurt;manufactured_goods;12;21;90;53;26
+13;15;paper;Paper;manufactured_goods;9;18;90;19;13
+13;15;granola;Granola;manufactured_goods;9;19;40;29;16
+29;33;honeycomb;Honeycomb;manufactured_goods;9;35;360;22;14
+20;23;eskimo;Eskimo;manufactured_goods;7;25;240;87;36
+29;33;glue;Glue;manufactured_goods;7;37;120;115;45
+10;12;sweater;Sweater;manufactured_goods;6;14;90;76;32
+16;19;frozenyogurt;Frozen Yogurt;manufactured_goods;6;23;180;87;41
+16;19;caramel;Caramel;manufactured_goods;6;24;90;45;15
+16;19;potato;Картофель;seeds;5;22;240;17;8
+16;19;papertowel;Paper Towel;manufactured_goods;5;23;150;39;21
+16;19;fruitice;Fruit Ice;manufactured_goods;5;21;90;45;22
+16;19;chips;Potato Chips;manufactured_goods;4;22;120;69;22
+29;33;pepper;Перец;seeds;4;43;300;20;9
+29;33;jellybeans;Jelly Beans;manufactured_goods;4;39;120;79;31
+29;33;cheesecake;Cheesecake;manufactured_goods;4;36;180;160;60
+29;33;ball;Beach Ball;manufactured_goods;4;37;120;243;84
+13;15;sandwich;Jam Sandwich;manufactured_goods;3;19;40;80;37
+16;19;rubber;Rubber;manufactured_goods;3;29;60;37;18
+16;19;muffin;Muffin;manufactured_goods;3;24;30;68;41
+16;19;frenchfries;French Fries;manufactured_goods;3;28;60;88;41
+16;19;candystick;Stick Candy;manufactured_goods;3;42;240;105;44
+16;19;cacao;Какао;seeds;3;25;480;19;11
+20;23;potatobread;Potato Bread;manufactured_goods;3;26;60;158;50
+20;23;honeycomb;Honeycomb;manufactured_goods;3;35;360;22;14
+20;23;cacao;Какао;seeds;3;25;480;19;11
+24;28;pudding;pudding;rare;3; NA ; NA ; NA ; NA 
+29;33;table;Table;manufactured_goods;3;47;240;62;29
+29;33;sauce;Hot Chilli Sauce;manufactured_goods;3;43;120;144;57
+29;33;honeycaramel;Honey Caramel;manufactured_goods;3;38;150;38;24
+29;33;PlatinumBullion;PlatinumBullion;special_goods;3;19;240;300;25
+10;12;milkshake;Milk Shake;manufactured_goods;2;16;15;30;18
+13;15;pine;Елка;seeds;2;18;180;15;7
+13;15;chips;Potato Chips;manufactured_goods;2;22;120;69;22
+16;19;toys;Toy;manufactured_goods;2;35;45;136;55
+16;19;taco;Taco;manufactured_goods;2;49;90;109;47
+16;19;silk;Шелк;seeds;2;31;900;33;14
+16;19;potatobread;Potato Bread;manufactured_goods;2;26;60;158;50
+16;19;pizza;Pizza;manufactured_goods;2;22;120;68;34
+16;19;glue;Glue;manufactured_goods;2;37;120;115;45
+16;19;dress;Dress;manufactured_goods;2;33;180;268;67
+16;19;doughnut;Doughnut;manufactured_goods;2;33;90;149;64
+16;19;chair;Chair;manufactured_goods;2;47;180;100;39
+16;19;SilverBullion;SilverBullion;special_goods;2;15;120;144;15
+20;23;wallpapers;Wallpaper;manufactured_goods;2;30;180;89;39
+20;23;silkfabric;Silk Fabric;manufactured_goods;2;31;90;140;34
+20;23;brownie;Brownie;manufactured_goods;2;27;40;128;56
+24;28;honeycomb;Honeycomb;manufactured_goods;2;35;360;22;14
+24;28;hat_scarf;hat_scarf;rare;2; NA ; NA ; NA ; NA 
+24;28;glue;Glue;manufactured_goods;2;37;120;115;45
+24;28;cupcake;Cupcake;manufactured_goods;2;30;60;93;54
+24;28;SilverBullion;SilverBullion;special_goods;2;15;120;144;15
+29;33;toffee;Toffee;manufactured_goods;2;40;180;112;42
+29;33;suit;Suit;manufactured_goods;2;36;240;330;80
+29;33;pudding;pudding;rare;2; NA ; NA ; NA ; NA 
+29;33;pendant;Pendant;manufactured_goods;2;53;30;345;45
+29;33;SilverBullion;SilverBullion;special_goods;2;15;120;144;15
+29;33;GoldBullion;GoldBullion;special_goods;2;19;180;204;20
+10;12;potato;Картофель;seeds;1;22;240;17;8
+10;12;plastic;Plastic;manufactured_goods;1;32;90;75;32
+10;12;paper;Paper;manufactured_goods;1;18;90;19;13
+10;12;cheesecake;Cheesecake;manufactured_goods;1;36;180;160;60
+13;15;yogurt;Yogurt;manufactured_goods;1;21;90;53;26
+13;15;potato;Картофель;seeds;1;22;240;17;8
+13;15;muffin;Muffin;manufactured_goods;1;24;30;68;41
+13;15;icecream;Ice Cream;manufactured_goods;1;20;30;39;23
+13;15;fruitice;Fruit Ice;manufactured_goods;1;21;90;45;22
+13;15;eskimo;Eskimo;manufactured_goods;1;25;240;87;36
+13;15;cacao;Какао;seeds;1;25;480;19;11
+13;15;SilverBullion;SilverBullion;special_goods;1;15;120;144;15
+16;19;wheel;Wheel;manufactured_goods;1;38;150;247;88
+16;19;wallpapers;Wallpaper;manufactured_goods;1;30;180;89;39
+16;19;silkfabric;Silk Fabric;manufactured_goods;1;31;90;140;34
+16;19;plasticbottle;Plastic Bottle;manufactured_goods;1;34;90;94;38
+16;19;plastic;Plastic;manufactured_goods;1;32;90;75;32
+16;19;nachos;Nachos;manufactured_goods;1;46;180;112;47
+16;19;lollipop;Lollipop;manufactured_goods;1;48;300;117;43
+16;19;jellybeans;Jelly Beans;manufactured_goods;1;39;120;79;31
+16;19;flipflops;Flip Flops;manufactured_goods;1;50;90;46;24
+16;19;cupcake;Cupcake;manufactured_goods;1;30;60;93;54
+16;19;chocolate;Chocolate;manufactured_goods;1;45;150;108;54
+16;19;brownie;Brownie;manufactured_goods;1;27;40;128;56
+16;19;book;Book;manufactured_goods;1;52;210;310;117
+16;19;PlatinumBullion;PlatinumBullion;special_goods;1;19;240;300;25
+16;19;GoldBullion;GoldBullion;special_goods;1;19;180;204;20
+20;23;suit;Suit;manufactured_goods;1;36;240;330;80
+20;23;silk;Шелк;seeds;1;31;900;33;14
+20;23;rubberTree;Резиновое дерево;seeds;1;29;720;30;13
+20;23;rubber;Rubber;manufactured_goods;1;29;60;37;18
+20;23;plasticbottle;Plastic Bottle;manufactured_goods;1;34;90;94;38
+20;23;nachos;Nachos;manufactured_goods;1;46;180;112;47
+20;23;jellybeans;Jelly Beans;manufactured_goods;1;39;120;79;31
+20;23;hat;Hat;manufactured_goods;1;31;150;231;53
+20;23;glue;Glue;manufactured_goods;1;37;120;115;45
+20;23;frenchfries;French Fries;manufactured_goods;1;28;60;88;41
+20;23;doughnut;Doughnut;manufactured_goods;1;33;90;149;64
+20;23;chair;Chair;manufactured_goods;1;47;180;100;39
+20;23;ball;Beach Ball;manufactured_goods;1;37;120;243;84
+20;23;SilverBullion;SilverBullion;special_goods;1;15;120;144;15
+24;28;wallpapers;Wallpaper;manufactured_goods;1;30;180;89;39
+24;28;suit;Suit;manufactured_goods;1;36;240;330;80
+24;28;silkfabric;Silk Fabric;manufactured_goods;1;31;90;140;34
+24;28;silk;Шелк;seeds;1;31;900;33;14
+24;28;plastic;Plastic;manufactured_goods;1;32;90;75;32
+24;28;hat;Hat;manufactured_goods;1;31;150;231;53
+24;28;gingerbread;gingerbread;rare;1; NA ; NA ; NA ; NA 
+24;28;chocolate;Chocolate;manufactured_goods;1;45;150;108;54
+24;28;chair;Chair;manufactured_goods;1;47;180;100;39
+24;28;candystick;Stick Candy;manufactured_goods;1;42;240;105;44
+24;28;PlatinumBullion;PlatinumBullion;special_goods;1;19;240;300;25
+24;28;GoldBullion;GoldBullion;special_goods;1;19;180;204;20
+29;33;wheel;Wheel;manufactured_goods;1;38;150;247;88
+29;33;taco;Taco;manufactured_goods;1;49;90;109;47
+29;33;flipflops;Flip Flops;manufactured_goods;1;50;90;46;24
+29;33;couch;Couch;manufactured_goods;1;48;360;100;36
+29;33;chocolate;Chocolate;manufactured_goods;1;45;150;108;54
