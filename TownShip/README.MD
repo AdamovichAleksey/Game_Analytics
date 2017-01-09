@@ -1,2 +1,2 @@
 ### Подробно прочитать задание можно [в файле Task.pdf] (https://github.com/AdamovichAleksey/Game_Analytics/blob/master/TownShip/Task.pdf)
-### Выполнение задания можно посмотреть в браузере, загрузив [html файл](https://github.com/AdamovichAleksey/Game_Analytics/blob/master/TownShip/Analysis.html), или в RStudio, загрузив [Rmd документ](https://github.com/AdamovichAleksey/Game_Analytics/blob/master/TownShip/Analysis.Rmd).
+### Выполнение задания можно посмотреть в браузере, сохранив [html файл](https://github.com/AdamovichAleksey/Game_Analytics/blob/master/TownShip/Analysis.html), или в RStudio, загрузив [Rmd документ](https://github.com/AdamovichAleksey/Game_Analytics/blob/master/TownShip/Analysis.Rmd).
